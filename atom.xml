@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>武汉疫情全记录</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://wuhan2019-ncov.github.io.git/"/>
+  <updated>2020-02-04T10:30:22.517Z</updated>
+  <id>https://wuhan2019-ncov.github.io.git/</id>
+  
+  <author>
+    <name>Malone</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://wuhan2019-ncov.github.io.git/2020/hwsslk233/"/>
+    <id>https://wuhan2019-ncov.github.io.git/2020/hwsslk233/</id>
+    <published>2020-02-04T08:30:23.706Z</published>
+    <updated>2020-02-04T10:30:22.517Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><div class="code-area-wrap"><div class="highlight-tools"><i class="fa fa-angle-down code-expand" aria-hidden="true"></i><div class="code_lang">bash</div><div class="copy-notice"></div><i class="fa fa-clipboard" aria-hidden="true"></i></div><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure></div><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><div class="code-area-wrap"><div class="highlight-tools"><i class="fa fa-angle-down code-expand" aria-hidden="true"></i><div class="code_lang">bash</div><div class="copy-notice"></div><i class="fa fa-clipboard" aria-hidden="true"></i></div><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure></div><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><div class="code-area-wrap"><div class="highlight-tools"><i class="fa fa-angle-down code-expand" aria-hidden="true"></i><div class="code_lang">bash</div><div class="copy-notice"></div><i class="fa fa-clipboard" aria-hidden="true"></i></div><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure></div><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><div class="code-area-wrap"><div class="highlight-tools"><i class="fa fa-angle-down code-expand" aria-hidden="true"></i><div class="code_lang">bash</div><div class="copy-notice"></div><i class="fa fa-clipboard" aria-hidden="true"></i></div><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure></div><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>20200204160816</title>
+    <link href="https://wuhan2019-ncov.github.io.git/2020/ck67sbd990002zous9qlp7ib7/"/>
+    <id>https://wuhan2019-ncov.github.io.git/2020/ck67sbd990002zous9qlp7ib7/</id>
+    <published>2020-02-04T08:08:16.000Z</published>
+    <updated>2020-02-04T08:08:40.178Z</updated>
+    
+    <content type="html"><![CDATA[<p>11112</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;11112&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>20200204155007</title>
+    <link href="https://wuhan2019-ncov.github.io.git/2020/ck67sbd970001zousgnqm3rhr/"/>
+    <id>https://wuhan2019-ncov.github.io.git/2020/ck67sbd970001zousgnqm3rhr/</id>
+    <published>2020-02-04T07:50:07.000Z</published>
+    <updated>2020-02-04T07:50:07.524Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>开工第一天</title>
+    <link href="https://wuhan2019-ncov.github.io.git/2020/kg20200203/"/>
+    <id>https://wuhan2019-ncov.github.io.git/2020/kg20200203/</id>
+    <published>2020-02-03T16:49:29.000Z</published>
+    <updated>2020-02-04T11:01:18.900Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天是春节延长假期后上班的第一天，很多上班族已经上班了。究竟如何面对疫情后的第一天上班情形呢？<br>看看以下两图就可以知道个大概了。<br><a href="/images/202002041.jpg" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="/images/202002041.jpg" class="lazyload"></a><br><a href="/images/202002042.jpg" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="/images/202002042.jpg" class="lazyload"></a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;今天是春节延长假期后上班的第一天，很多上班族已经上班了。究竟如何面对疫情后的第一天上班情形呢？&lt;br&gt;看看以下两图就可以知道个大概了。&lt;br&gt;&lt;a href=&quot;/images/202002041.jpg&quot; data-fancybox=&quot;group&quot; data-caption
+      
+    
+    </summary>
+    
+    
+      <category term="世间百态" scheme="https://wuhan2019-ncov.github.io.git/categories/%E4%B8%96%E9%97%B4%E7%99%BE%E6%80%81/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>武汉疫情发展进程2020年2月</title>
+    <link href="https://wuhan2019-ncov.github.io.git/2020/wh202002/"/>
+    <id>https://wuhan2019-ncov.github.io.git/2020/wh202002/</id>
+    <published>2020-02-03T12:27:00.000Z</published>
+    <updated>2020-02-04T11:11:20.429Z</updated>
+    
+    <content type="html"><![CDATA[<p>2020年2月1日<br>1、美东31日下午，白宫就新型冠状病毒疫情举行发布会，美国卫生与公众服务部长亚历克斯·阿扎宣布新型冠状病毒疫情构成美国公共健康紧急事件。同时，阿扎还宣布，从美东时间2月2日下午5时开始 ，过去14天内曾到访中国的外国人（美国公民和永久居民的直系亲属除外）将被暂时禁止入境。<br>2、中国科学院1月31日晚发布，双黄连口服液可抑制新型冠状病毒，中国科学院上海药物所和武汉病毒所经过联合研究，初步发现中成药双黄连口服液可抑制新型冠状病毒(2019-nCoV)。引发全民抢购。<br>3、2月1日下午，央视记者探访武汉红十字会。记者试图探访仓库物资分发处受到保安阻拦。 交涉过程中直播被切断。<br>4、2月1日，深圳市第三人民医院透露，该院肝病研究所研究发现，在某些新型冠状病毒感染的肺炎确诊患者的粪便中检测出2019-nCoV核酸（新型冠状病毒）阳性，很有可能提示粪便中有活病毒存在。引发民众担忧。<br>5、所在部门开展错峰上班，16日前一部分先上班，另一部分人在家远程办公。轮流上班。<br>2020年2月2日<br>1、今天（2日）上午，武汉火神山医院举行交付仪式，武汉市市长周先旺和联勤保障部队白忠斌副司令员在武汉火神山医院签署互换交接文件，标志着火神山医院正式交付人民军队医务工作者。<br>2、环球网微博2月2日消息，据彭博社消息，菲律宾出现首例新冠病毒肺炎死亡病例，系中国外出现的首例死亡病例。<br>3、2月1日，一架满载医疗物资的直升机直接飞抵武汉协和医院。<br>2020年2月3日<br>1、中共中央政治局常务委员会召开会议，研究加强新型冠状病毒感染的肺炎疫情防控工作，中共中央总书记习近平主持会议。<br>2、2月2日，广东深圳市疾控对3例社区传播病例情况进行发布。其中一例病例为一名外卖员，根据流行病学调查显示，没有明确接触史。<br>3、1月30日，哈尔滨1名孕38周+3的孕妇被确诊为新冠病毒感染病人。为确保母婴安全，当天23时32分，医生为她进行剖宫产手术，顺利剖出1女婴，体重6斤1两，母亲产后情况良好。新生儿分别于1月31日、2月2日两次采取标本进行核酸检测，结果均为阴性，状态良好。<br>4、中国地震台网正式测定：02月03日00时05分在四川成都市青白江区（北纬30.74度，东经104.46度）发生5.1级地震，震源深度21千米。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;2020年2月1日&lt;br&gt;1、美东31日下午，白宫就新型冠状病毒疫情举行发布会，美国卫生与公众服务部长亚历克斯·阿扎宣布新型冠状病毒疫情构成美国公共健康紧急事件。同时，阿扎还宣布，从美东时间2月2日下午5时开始 ，过去14天内曾到访中国的外国人（美国公民和永久居民的直系亲属
+      
+    
+    </summary>
+    
+    
+      <category term="历史记录" scheme="https://wuhan2019-ncov.github.io.git/categories/%E5%8E%86%E5%8F%B2%E8%AE%B0%E5%BD%95/"/>
+    
+    
+      <category term="武汉疫情" scheme="https://wuhan2019-ncov.github.io.git/tags/%E6%AD%A6%E6%B1%89%E7%96%AB%E6%83%85/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>某科研工作者记录首次发现新型冠状病毒的生信分析经历</title>
+    <link href="https://wuhan2019-ncov.github.io.git/2020/find2019ncov/"/>
+    <id>https://wuhan2019-ncov.github.io.git/2020/find2019ncov/</id>
+    <published>2020-02-03T08:34:33.000Z</published>
+    <updated>2020-02-04T11:10:13.288Z</updated>
+    
+    <content type="html"><![CDATA[<p>原文发表于微信公众号：小山狗，后被多个公众号引用。</p><p><a href="/images/202002031.png" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="/images/202002031.png" class="lazyload"></a><br><a href="/images/202002032.png" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="/images/202002032.png" class="lazyload"></a><br><a href="/images/202002033.png" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="/images/202002033.png" class="lazyload"></a><br><a href="/images/202002034.png" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="/images/202002034.png" class="lazyload"></a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;原文发表于微信公众号：小山狗，后被多个公众号引用。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/images/202002031.png&quot; data-fancybox=&quot;group&quot; data-caption class=&quot;fancybox&quot;&gt;&lt;img alt title data-
+      
+    
+    </summary>
+    
+    
+      <category term="2019ncov" scheme="https://wuhan2019-ncov.github.io.git/categories/2019ncov/"/>
+    
+    
+      <category term="2019ncov" scheme="https://wuhan2019-ncov.github.io.git/tags/2019ncov/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>新冠状病毒新传染途径</title>
+    <link href="https://wuhan2019-ncov.github.io.git/2020/cytj20200203/"/>
+    <id>https://wuhan2019-ncov.github.io.git/2020/cytj20200203/</id>
+    <published>2020-02-02T17:15:18.000Z</published>
+    <updated>2020-02-04T11:10:13.299Z</updated>
+    
+    <content type="html"><![CDATA[<p>2020年2月3日，中国新闻周刊微博报道，日前，广州市疾控中心在疫情监测中，在一名确诊患者家中门把手上发现了新型冠状病毒的核酸，这是广州首次在外环境中发现，提示市民应更注意手卫生。专家提醒，日常家居细节中，有许多可能造成病毒间接传播的途径：如手机屏幕、电脑键盘、水龙头等等，都需要日常清洁。<br>2月1日，深圳市第三人民医院透露，该院肝病研究所研究发现，在某些新型冠状病毒感染的肺炎确诊患者的粪便中检测出2019-nCoV核酸（新型冠状病毒）阳性，提示#粪便中可能有活病毒存在#。第三人民医院研究人员表示，目前正在做进一步分离病毒的研究。提醒广大市民，戴口罩的同时，要勤洗手，注意个人卫生。<br>【美国首例新型肺炎治疗全过程】近日，一篇记录美国首个新型肺炎病人治疗过程的论文，在新英格兰医学杂志上发表，详细记录了美国首例新型冠状病毒肺炎患者的诊疗过程。论文中也提到在患者粪便检测出病毒的活体。<br>以上消息说明，病毒可以在体外存活一定时间，除了飞沫传播，很可能可以通过粪便传播、接触传播。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;2020年2月3日，中国新闻周刊微博报道，日前，广州市疾控中心在疫情监测中，在一名确诊患者家中门把手上发现了新型冠状病毒的核酸，这是广州首次在外环境中发现，提示市民应更注意手卫生。专家提醒，日常家居细节中，有许多可能造成病毒间接传播的途径：如手机屏幕、电脑键盘、水龙头等等，
+      
+    
+    </summary>
+    
+    
+      <category term="2019ncov" scheme="https://wuhan2019-ncov.github.io.git/categories/2019ncov/"/>
+    
+    
+      <category term="传染途径" scheme="https://wuhan2019-ncov.github.io.git/tags/%E4%BC%A0%E6%9F%93%E9%80%94%E5%BE%84/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>一些设置</title>
+    <link href="https://wuhan2019-ncov.github.io.git/2020/set202020203/"/>
+    <id>https://wuhan2019-ncov.github.io.git/2020/set202020203/</id>
+    <published>2020-02-02T17:04:46.000Z</published>
+    <updated>2020-02-04T11:01:50.585Z</updated>
+    
+    <content type="html"><![CDATA[<p>你好！hello world!<br>分类：</p><ul><li>人间惨剧</li><li>热点聚焦</li><li>世间百态</li><li>人性光辉</li><li>身边故事</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;你好！hello world!&lt;br&gt;分类：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;人间惨剧&lt;/li&gt;
+&lt;li&gt;热点聚焦&lt;/li&gt;
+&lt;li&gt;世间百态&lt;/li&gt;
+&lt;li&gt;人性光辉&lt;/li&gt;
+&lt;li&gt;身边故事&lt;/li&gt;
+&lt;/ul&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>武汉疫情发展进程</title>
+    <link href="https://wuhan2019-ncov.github.io.git/2020/wh202001/"/>
+    <id>https://wuhan2019-ncov.github.io.git/2020/wh202001/</id>
+    <published>2020-02-02T16:50:26.000Z</published>
+    <updated>2020-02-04T11:00:47.445Z</updated>
+    
+    <content type="html"><![CDATA[<p>原文：<a href="https://bbs.qzzn.com/thread-16659098-1-1.html" target="_blank" rel="noopener">https://bbs.qzzn.com/thread-16659098-1-1.html</a></p><p>武汉发展到今天这般地步，到底是谁耽误了武汉？一起先看看新型肺炎发展的时间线。<br>2019年12月8日：武汉发现27例人不明肺炎患者；<br>2019年12月30日：武汉卫健委要求各医疗单位严格上报，严禁对外发布救治信息；<br>2019年12月31日：武汉卫健委通报：发现27例病毒性肺炎，未发现人传人和医务人员感染；<br>2020年1月1日：平安武汉发布：8名散布谣言者被查处；病毒发源地华南海鲜城正式整治；<br>2020年1月3日：武汉一男子在温州自驾期间出现高热；北京、深圳、日本等地亦有出现。<br>2020年1月5日：武汉市政府：没有人传人证据，没有医务者感染；同日医务工作者发烧、中央得到检测准确消息。<br>2020年1月6日——2020年1月10日： 武汉卫健委：没有任何动静。<br>2020年1月9日：中国卫生专家组确认是新型冠状病毒；<br>2020年1月10日：武汉定点医院床位爆满，“疑似患者”激增，有医护被传染（三联报道）；<br>2020年1月11日：武汉卫健委：1月3日后未发现新增病例；<br>2020年1月12日：自然教育专家徐大鹏夫妇先后于12日和21日因肺炎离世，但截止离世未被确诊为新型冠状病毒。<br>2020年1月12日-1月17日： 武汉卫健委：无新增病例；<br>2020年1月14日： 香港记者被带进派出所，后获释；<br>2020年1月15日： 武汉卫健委：未发现明显人传人证据；<br>2020年1月17日： 武汉文旅局：春节文化惠民活动启动；<br>2020年1月18日： 武汉百步亭社区举办万家宴，十万人参与；<br>2020年1月19日： 武汉通报一夜新增136名患者；武汉市疾病预防控制中心主任李刚：传染性不强，疫情可防可控；<br>2020年1月20日： 钟南山考察武汉：新型肺炎可以人传人；国务院下达重视疫情和人民生命健康的指示；湖北省应急管理厅成功举办春节联欢会。<br>2020年1月21日： 湖北省春节团拜会在洪山礼堂举行，演员们“带着层层口罩，克服肺炎恐惧”，得到了省领导的赞扬；同日浙江确诊5例；<br>2020年1月22日：<br>上午9:00，华南海鲜市场商户戴口罩聚众排长队领退租金；<br>央视新闻报道称，截止22日24:00，湖北确诊444例；湖北“小汤山”医院开建，新增1000张床位；<br>副总理孙春兰开始检查指导肺炎疫情防控工作。<br>2020年1月23日：<br>（1）凌晨两点，武汉宣布“封城”，10点前29.9万人出走武汉；<br>（2）下午17:00-18:00，新疆确诊2例，即【除青海和西藏，以及疑似病例的内蒙古，全国其他省份全部跑毒失败】。<br>（3）界面快讯报道称，截止23日23时，湖北确诊（还是）444例。<br>（4）湖北省长接受央视采访称【武汉物资储备充足】，同一时期有医护人士在微博为武汉协和等10家当地医院紧急求助物资支援。<br>（5）广东、湖南、浙江启动重大突发公共卫生事件一级响应，河南称恶意逃窜传播疾病最高可判7年，湖北启动二级应急响应。<br>（6）泰州市人民医院感染科医生姜继军查房后去发热门诊途中，心脏骤停牺牲。<br>2020年1月24日：<br>（1）湖北七地封城，暂停全省旅行社经营活动，学校推迟开学时间，新增105例。<br>（2）湖北省看望困难群众的省商务厅副厅长被感染，22日确诊（看来这位真去基层吃苦了）<br>（3）内蒙古确诊，青海疑似，湖北终于启动了一级响应……除了西藏，大公鸡真的煮熟了<br>（4）北京、上海、安徽、重庆、天津、四川、云南、贵州、山东、福建启动一级响应；【国务院办公厅：瞒报漏报疫情将严肃处理】；<br>（5）河南省领导因一个多月来严防死守、围追堵截的土匪式彪悍作风成为全网防疫典范<br>（6）驻武汉地区部队医院派出40名医护人员展开救治，上海海军军医大学150人的医疗团队携医疗物资出发<br>2020年1月25日：<br>（1）襄阳封城，至此【湖北除神农架外，全部封省】<br>（2）“充足”的物资准备下，武汉医护人员靠方便面、蛋黄派、饼干充饥，用文件袋遮面，雨衣当防护服；<br>（3）浙江首批135位医护战士出征江城；南方医科大学（广州）、海军军医大学（上海）、陆军军医大学（重庆）、空军军医大学（西安）等军队专业医疗力量介入。<br>（4）湖北省中西医结合医院（新华医院）耳鼻喉科主任梁武东因感染新型肺去世。<br>（5）武汉市防疫指挥部：半个月之内再建一所“小汤山医院”——武汉雷神山医院，新增床位1300张。<br>（6）1月25日农历正月初一，中共中央政治局常务委员会召开会议，专门听取新型冠状病毒感染的肺炎疫情防控工作汇报，对疫情防控特别是患者治疗工作进行再研究、再部署、再动员。中共中央总书记习近平强调，各级党委和政府必须按照党中央决策部署，全面动员，全面部署，全面加强工作，把人民群众生命安全和身体健康放在第一位，把疫情防控工作作为当前最重要的工作来抓。只要坚定信心、同舟共济、科学防治、精准施策，我们就一定能打赢疫情防控阻击战。<br>2020年1月26日：<br>2020年1月27日：<br>1、1月27日农历正月初三，受习近平总书记委托，中共中央政治局常委、国务院总理、中央应对新型冠状病毒感染肺炎疫情工作领导小组组长李克强来到武汉，考察指导疫情防控工作。<br>2、国务院办公厅27日发布关于延长2020年春节假期的通知。经国务院批准，为加强新型冠状病毒感染的肺炎疫情防控工作，有效减少人员聚集，阻断疫情传播，更好保障人民群众生命安全和身体健康，现将延长2020 年春节假期的具体安排通知如下：<br>一、延长2020年春节假期至2月2日（农历正月初九，星期日），2月3日（星期一）正常上班。<br>二、各地大专院校、中小学、幼儿园推迟开学，具体时间由教育部门另行通知。<br>三、因疫情防控不能休假的职工，应根据《中华人民共和国劳动法》规定安排补休，未休假期的工资报酬应按照有关政策保障落实。<br>2020年1月28日：<br>1、从国家移民管理局获悉，根据当前新型冠状病毒感染肺炎疫情防控工作需要，即日起，全国公安机关出入境管理部门暂停受理、审批、签发内地居民赴香港、澳门团队旅游、个人旅游（含深圳“一周一行”）签注，恢复时间将另行发布。<br>2、今天，国家主席习近平在人民大会堂会见世界卫生组织总干事谭德塞。习近平说，当前中国人民正在与新型冠状病毒感染肺炎疫情进行严肃的斗争。人民群众生命安全和身体健康始终是第一位的，疫情防控是当前最重要的工作。我一直亲自指挥、亲自部署，我相信只要我们坚定信心、同舟共济、科学防治、精准施策，我们一定会战胜这一次疫情。<br>谭德塞表示，中方公开透明发布信息，用创纪录短的时间甄别出病原体，及时主动同世界卫生组织和其他国家分享有关病毒基因序列。在疫情面前，中国政府展现出坚定的政治决心，采取了及时有力的举措，令世人敬佩。我相信，中国采取的措施将有效控制并最终战胜疫情。<br>3、香港今午（28日）宣布多项防疫措施:<br>为大幅度减少两地往返人流，中央政府已同意会暂停发出个人游的签注.<br>会缩减两地海陆空交通服务，包括高铁香港段 ，红磡城际直通车，沙头角及文锦渡口岸均暂停服务；<br>与内地往来的航班亦会减半；尖沙咀及屯门前往澳门的渡轮码头的跨境渡轮服务暂停，并会减少跨境巴士的班次 。<br>措施由本月30日凌晨生效。<br>4、日本NHK电视台刚刚援引日本厚生劳动大臣加藤胜信的话称，已确认没有出境去过武汉的人感染了新型冠状病毒肺炎。<br>5、1月28日，国家医疗专家组成员李兴旺表示，在散发病例密切接触者中，观察到一些无症状的感染者，虽然没有症状，但是做核酸检测是阳性的。<br>6、【世卫组织：#新型冠状病毒疫情对全球构成高风险#】<br>世卫组织在26日、27日的新型冠状病毒报告中，将新型冠状病毒疫情全球范围风险改为高风险。<br>世卫组织表示，此前发布的报告中，错误地将新型冠状病毒疫情对全球风险总结为中等，其实为高风险。<br>新型冠状病毒疫情对中国造成非常高风险，对区域造成高风险。<br>2020年1月29日<br>1、现在市面上买不到口罩、酒精、一次性手套，连网上也预售缺货。大家都抢口罩，中国人这么多，十四亿，而全国日生产能力才2000万个，供不应求。国外，包括港澳台地区都在抢口罩。<br>2、阿联酋宣布发现首例新型冠状病毒感染的肺炎病例。此乃中东地区首例新冠状病毒确诊病例。<br>3、据报道，美国国会众议院当地时间28日下午审议通过了“2019年西藏政策及支持法案”。<br>4、1月28日，美国FBI拘捕了哈佛化学系主任。美国司法部指控其参与”千人计划”，却对国防部和卫生研究院隐瞒并虚假称述。<br>这位化学系主任是武汉科技大学的战略型科学家，另有两名中国研究人员被捕，被指控窃取文件资料和生物样本送回国。<br>5、今天下午15点，由钟南山院士担任组长的广东省新型冠状病毒感染的肺炎重症病例会诊专家组对广东5例危重症患者进行了第一次远程会诊。参与今天远程会诊的有共5家医院的10名专家，整个专家组成员100余名。从今天开始，这样的远程会诊每天都会进行。<br>6、#31省区市均启动一级响应#【#西藏启动重大突发公共卫生事件一级响应#】1月29日上午，西藏自治区应对新型冠状病毒感染的肺炎疫情工作领导小组召开会议，会议决定自即日起，全区启动重大突发公共卫生事件Ⅰ级响应。<br>2020年1月30日<br>1、【#印度出现首例新冠病毒感染肺炎确诊病例#，系一名在武汉读书的印度学生】据印度快报刚刚消息，印度出现首例新冠病毒感染肺炎确诊病例。印度快报称，该病例是一名在武汉读书的喀拉拉邦学生。<br>2、【快讯！#菲律宾确诊首例新型冠状病毒感染肺炎病例#】据路透社消息，菲律宾卫生部长称，菲律宾确诊首例新型冠状病毒感染肺炎病例。<br>3、现在民众仍然十分恐慌，口罩仍然无法正常购买，连香港人也在排队购买口罩。<br>4、今天微博上看到一个消息：权威医学杂志《新英格兰医学杂志》刊登了一篇由中国疾控中心谭文杰、高福、吴桂珍三位作者共同发表的《2019年中国肺炎患者的新型冠状病毒》论文里有提到，2019年12月下旬，武汉几家卫生机构便报告了当地出现不明肺炎，2019年12月31日，中疾控派出专家展开调查，与此同时，金银潭医院采集到了3位患者肺泡液，确认出现新型冠状病毒。3位作者里，高福是中疾控中心主任，主持了病毒分离全过程。也就是说，在2020年1月1日，武汉传唤8名“散播谣言”者、1月6日~1月10日，武汉未发布任何疫情通报等瞒报行为，其实，国家都是知情的[吃惊]【至少中疾控是知情的，有点震惊！】<br>论文地址：<a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2001316?query=featured_home" target="_blank" rel="noopener">https://www.nejm.org/doi/full/10.1056/NEJMoa2001316?query=featured_home</a><br>2020年1月31日<br>1、武汉红十字会将1.8万个口罩分配给仁爱医院，而专治肺炎的协和却没有分配到，引起微博上的热议。晚上23时，人民日报突然说双黄连口服液对冠状病毒有抑制作用，引起全民抢购。民众焦点再次转移。</p><p>总结一下：<br>2019年12月8日-12月31日，武汉空白；<br>2020年1月1日-1月10日，武汉空白；<br>2020年1月11日-1月17日，自第一例死亡病例出现后7天，武汉一直通报“无新增病例”；<br>2020年1月20日-1月22日，最高指示发出，防控全面升级后2天，武汉才开始号召市民戴口罩，武汉相关领导还在参加春节团拜会；</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;原文：&lt;a href=&quot;https://bbs.qzzn.com/thread-16659098-1-1.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bbs.qzzn.com/thread-16659098-1-1.html&lt;/
+      
+    
+    </summary>
+    
+    
+      <category term="历史记录" scheme="https://wuhan2019-ncov.github.io.git/categories/%E5%8E%86%E5%8F%B2%E8%AE%B0%E5%BD%95/"/>
+    
+    
+      <category term="武汉疫情" scheme="https://wuhan2019-ncov.github.io.git/tags/%E6%AD%A6%E6%B1%89%E7%96%AB%E6%83%85/"/>
+    
+      <category term="2019年12月" scheme="https://wuhan2019-ncov.github.io.git/tags/2019%E5%B9%B412%E6%9C%88/"/>
+    
+      <category term="2020年1月" scheme="https://wuhan2019-ncov.github.io.git/tags/2020%E5%B9%B41%E6%9C%88/"/>
+    
+  </entry>
+  
+</feed>
